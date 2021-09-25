@@ -1,0 +1,1 @@
+ha fallado men<?php /**PATH /home/vagrant/proyectoslarabel/proyectofinal/resources/views/errors/419.blade.php ENDPATH**/ ?>
